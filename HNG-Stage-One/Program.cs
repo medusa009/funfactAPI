@@ -1,9 +1,11 @@
+using HNG_Stage_One.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddControllers();
-builder.Services.AddHttpClient();
+builder.Services.AddHttpClient<NumberService>();
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAll",
