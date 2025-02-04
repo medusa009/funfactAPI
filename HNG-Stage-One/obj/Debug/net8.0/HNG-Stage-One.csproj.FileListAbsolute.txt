@@ -30,3 +30,4 @@
 /Users/oracle/RiderProjects/HNG-Stage-One/HNG-Stage-One/obj/Debug/net8.0/HNG-Stage-One.pdb
 /Users/oracle/RiderProjects/HNG-Stage-One/HNG-Stage-One/obj/Debug/net8.0/HNG-Stage-One.genruntimeconfig.cache
 /Users/oracle/RiderProjects/HNG-Stage-One/HNG-Stage-One/obj/Debug/net8.0/ref/HNG-Stage-One.dll
+/Users/oracle/RiderProjects/HNG-Stage-One/HNG-Stage-One/obj/Debug/net8.0/HNG-Stage-One.sourcelink.json

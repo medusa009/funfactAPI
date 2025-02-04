@@ -1,0 +1,6 @@
+﻿services:
+  hng-stage-one:
+    image: hng-stage-one
+    build:
+      context: .
+      dockerfile: HNG-Stage-One/Dockerfile
