@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/HNG-Stage-One.props" />
+</Project>
